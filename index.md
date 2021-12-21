@@ -21,12 +21,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 1. Definitely Not Numbered
 2. List Here
 
-**yo!** and _Poggers_ and `Hello` 
+**Is this bold text?** or _Is this italics?_ or `Is this "code" text?` 
 
 [Link To Homepage](https://wimpyjake.github.io) and ![Image](src)
 ```
 
 
-### Support or Contact
+### Contact
 
-Working on this!
+Contact me on twitter: [@WimpyJake](https://twitter.com/WimpyJake)
