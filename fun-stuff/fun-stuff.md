@@ -3,4 +3,4 @@ But you might have reached a 404, so here's some stuff you might have meant to g
 ### [The Homepage](wimpyjake.github.io)
 ### [My Twitter](https://twitter.com/WimpyJake)
 #### or, just click anything random on this page! ㅤ
-##### ㅤ
+##### What are you waiting for? This is still work-in-progress, but check out other sites while you're waiting!
