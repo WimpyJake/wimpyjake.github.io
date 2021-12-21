@@ -1,6 +1,6 @@
 ## Welcome to my site!
 Hello there!
-
+[[Random Page I Made]](https://wimpyjake.github.io/fun-stuff/fun-stuff.html)
 ### Stuff
 
 Here are some stuff I don't know what to do with.
