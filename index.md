@@ -1,6 +1,5 @@
 ## Welcome to my site!
 Hello there!
-[Random Page I Made](https://wimpyjake.github.io/fun-stuff/fun-stuff.html)
 ### Stuff
 
 Here are some stuff I don't know what to do with.
@@ -20,7 +19,8 @@ Here are some stuff I don't know what to do with.
 
 **Is this bold text?** or _Is this italics?_ or `Is this "code" text?` 
 
-[Link To Homepage](https://wimpyjake.github.io) and ![Image](src)
+[Link To Homepage](https://wimpyjake.github.io)
+[Link to Random Page I Made](wimpyjake.github.io/fun-stuff/fun-stuff.html)
 ```
 
 
