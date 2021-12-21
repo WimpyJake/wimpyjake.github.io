@@ -1,12 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to my site!
+Hello there!
 
-You can use the [editor on GitHub](https://github.com/WimpyJake/wimpyjake.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### Stuff
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here are some stuff I don't know what to do with.
 
 ```markdown
 *don't mind this*
