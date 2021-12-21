@@ -29,4 +29,4 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ### Contact
 
-Contact me on twitter: [@WimpyJake](https://twitter.com/WimpyJake)
+Contact me on [[Twitter]](https://twitter.com): [@WimpyJake](https://twitter.com/WimpyJake)
